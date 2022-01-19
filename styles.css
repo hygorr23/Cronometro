@@ -21,7 +21,6 @@ body{
     border: 5px solid;
     border-image: linear-gradient(40deg, #fc0076, #e44800) ;
     border-image-slice: 1;
-    
 
 }
 .relogio>.contador{
@@ -47,7 +46,7 @@ span{
    border: 1px;
    outline: inherit;
    cursor: pointer;
-   height: 30px;
+   height: 40px;
    width: 50px;
    border-radius: 2px;
    color: rgb(255, 255, 255);
